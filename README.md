@@ -1,2 +1,2 @@
-# kamatics-d3avigator-client
-Kamatics D3 Navigator Tool - Client user interface
+# kamatics-d3avigator
+Kamatics D3 Navigator Tool
